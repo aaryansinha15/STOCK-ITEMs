@@ -1,1 +1,1 @@
-# SOD_stock
+# Stock list of otems 
